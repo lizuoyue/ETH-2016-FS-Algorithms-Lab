@@ -6,7 +6,7 @@ These exercises are in ACM style and mainly use the following libraries: STL, BG
 ### Content
 **Week 1:** Build the Sum, Even Pairs, Dominoes, Even Matrices, False Coin, Deck of Cards.
 </br>
-**Week 2:**
+**Week 2:** Search Snippets, Boats, Moving Books, Evolution, Octopussy.
 </br>
 **Week 3:**
 </br>
