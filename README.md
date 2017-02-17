@@ -8,7 +8,7 @@ These exercises are in ACM style and mainly use the following libraries: STL, BG
 </br>
 **Week 2:** Search Snippets, Boats, Moving Books, Evolution, Octopussy.
 </br>
-**Week 3:**
+**Week 3:** Hit, First Hit, Hiking Maps, Antenna, Attack of the Clones.
 </br>
 **Week 4:**
 </br>
