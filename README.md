@@ -4,23 +4,23 @@ The objective of this course is to learn how to solve a problem given by a textu
 </br></br>
 These exercises are in ACM style and mainly use the following libraries: STL, BGL and CGAL. The main algorithms and thoughts include Sliding Window, Sorting, Binary Search, Depth/Breadth First Search, Greedy, Backtracking, Dynamic Programming, Minimum Circle, Connected Component, Minimum Spanning Tree, Shortest Path, Maximum Matching, Split and List, Linear/Quadratic Programming, Delaunay Triangulation and Maximum Flow with/without Minimum Cost.
 ### Content
-**Week 01:** Build the Sum, Even Pairs, Dominoes, Even Matrices, False Coin, Deck of Cards.
+**Week 1:** Build the Sum, Even Pairs, Dominoes, Even Matrices, False Coin, Deck of Cards.
 </br>
-**Week 02:**
+**Week 2:**
 </br>
-**Week 03:**
+**Week 3:**
 </br>
-**Week 04:**
+**Week 4:**
 </br>
-**Week 05:**
+**Week 5:**
 </br>
-**Week 06:**
+**Week 6:**
 </br>
-**Week 07:**
+**Week 7:**
 </br>
-**Week 08:**
+**Week 8:**
 </br>
-**Week 09:**
+**Week 9:**
 </br>
 **Week 10:**
 </br>
