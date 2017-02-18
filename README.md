@@ -18,7 +18,7 @@ These exercises are in ACM style and mainly use the following libraries: STL, BG
 </br>
 **Week 7:** Maximize It, Diet, Portfolios, Inball, Knights.
 </br>
-**Week 8:**
+**Week 8:** Graypes, Bistro, H1N1, Germs, Stamp Exhibition.
 </br>
 **Week 9:**
 </br>
