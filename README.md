@@ -12,7 +12,7 @@ These exercises are in ACM style and mainly use the following libraries: STL, BG
 </br>
 **Week 4:** First Steps with BGL, Ant Challenge, Important Bridge, Buddy Selection, TheeV.
 </br>
-**Week 5:**
+**Week 5:** Burning Coins from Two Sides, Light Pattern, Light at the Museum, The Great Game, Poker Chips, On Her Majesty’s Secret Service
 </br>
 **Week 6:**
 </br>
