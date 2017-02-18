@@ -10,7 +10,7 @@ These exercises are in ACM style and mainly use the following libraries: STL, BG
 </br>
 **Week 3:** Hit, First Hit, Hiking Maps, Antenna, Attack of the Clones.
 </br>
-**Week 4:**
+**Week 4:** First Steps with BGL, Ant Challenge, Important Bridge, Buddy Selection, TheeV.
 </br>
 **Week 5:**
 </br>
