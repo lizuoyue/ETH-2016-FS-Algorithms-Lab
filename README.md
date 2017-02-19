@@ -20,15 +20,15 @@ These exercises are in ACM style and mainly use the following libraries: STL, BG
 </br>
 **Week 8:** Graypes, Bistro, H1N1, Germs, Stamp Exhibition.
 </br>
-**Week 9:**
+**Week 9:** Real Estate Market, Satellite, Algocoön Group, Canteen, Casino Royale.
 </br>
-**Week 10:**
+**Week 10:** Odd Route, Light the Stage, Bonus Level, Revenge of the Sith.
 </br>
-**Week 11:**
+**Week 11:** Clues, Punch, Carsharing, Planks.
 </br>
-**Week 12:**
+**Week 12:** New Tiles, Golden Eye, Corbusier's Modulor, Placing Knights, Radiation Therapy, The Empire Strikes Back.
 </br>
-**Week 13:**
+**Week 13:** Bob's Burden, DHL, Sweepers, Portfolios Revisited, The Phantom Menace.
 </br>
-**Week 14:**
+**Week 14:** Cantonal Courier.
 </br>
